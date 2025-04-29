@@ -1,12 +1,6 @@
-[2025-04-10 02:02:29,675]-[main] INFO  Application - Application started in 0.755 seconds.
-[2025-04-10 02:02:30,015]-[main] INFO  Application - Responding at http://127.0.0.1:8080
-[2025-04-10 02:20:17,733]-[main] INFO  Application - Application started in 0.981 seconds.
-[2025-04-10 02:20:18,096]-[main] INFO  Application - Responding at http://127.0.0.1:8080
-[2025-04-10 02:24:44,301]-[main] INFO  Application - Application started in 0.859 seconds.
-[2025-04-10 02:24:44,613]-[main] INFO  Application - Responding at http://127.0.0.1:8080
-[2025-04-10 02:29:55,098]-[main] INFO  Application - Application started in 0.818 seconds.
-[2025-04-10 02:29:55,422]-[main] INFO  Application - Responding at http://127.0.0.1:8080
-[2025-04-10 02:36:11,459]-[main] INFO  Application - Application started in 0.848 seconds.
-[2025-04-10 02:36:11,760]-[main] INFO  Application - Responding at http://127.0.0.1:8080
-[2025-04-10 03:15:40,470]-[main] INFO  Application - Application started in 0.928 seconds.
-[2025-04-10 03:15:40,811]-[main] INFO  Application - Responding at http://127.0.0.1:8080
+[2025-04-29 15:04:28,093]-[main] INFO  Application - Application started in 0.913 seconds.
+[2025-04-29 15:04:28,448]-[main] INFO  Application - Responding at http://127.0.0.1:8080
+[2025-04-29 15:11:17,036]-[main] INFO  Application - Application started in 0.806 seconds.
+[2025-04-29 15:11:17,360]-[main] INFO  Application - Responding at http://127.0.0.1:8080
+[2025-04-29 15:19:50,289]-[main] INFO  Application - Application started in 0.867 seconds.
+[2025-04-29 15:19:50,661]-[main] INFO  Application - Responding at http://127.0.0.1:8080
